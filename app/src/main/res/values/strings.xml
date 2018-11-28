@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prevent Bottomsheet</string>
+    <string name="hr_info_space">HR InfoSpace</string>
+
+
+    <string name="device_protection">Home</string>
+    <string name="application_manager">Task manager</string>
+    <string name="activity_log">Activity log</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="profile">Profile</string>
+    <string name="reset_password">Reset password</string>
+    <string name="settings">Settings</string>
+    <string name="how_it_works">How it works</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="about_us">About Us</string>
+
+</resources>
